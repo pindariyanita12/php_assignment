@@ -1,0 +1,54 @@
+body{
+	background: rgb(226, 211, 211);
+}
+#converting{
+	width: 500px;
+	margin-left: auto;
+    margin-right: auto;
+}
+/*menu page*/
+
+ul#measurement-types{
+	list-style-type: none;
+}
+
+ul#measurement-types li{
+
+	margin-top: 12px;
+}
+
+ul#measurement-types li a{
+	text-decoration: none;
+	color: black;
+	display: block;
+	background: white;
+	padding: 15px 25px;
+	width: 200px;
+	border: 1px solid black;
+    text-align: center;
+}
+
+ul#measurement-types li a:hover{
+	color: white;
+	background-color: black;
+}
+
+/*forms*/
+
+form label{
+	display: inline-block;
+	width: 50px;
+}
+
+form input[type="text"]{
+	width: 80px;
+	font-size: 15px;
+	
+}
+
+form select{
+	margin-top: 12px;
+	font-size: 15px;
+}
+
+
