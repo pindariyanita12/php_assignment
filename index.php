@@ -6,15 +6,12 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-	<div id="main-content">
+	<div id="converting">
 		<h1>Measurement Conversion</h1>
 		<ul id="measurement-types">
-			<li><a href="length.php">Length and Distance</a></li>
-			<li><a href="area.php">Area</a></li>
-			<li><a href="volume.php">Volume and Capacity</a></li>
-			<li><a href="mass.php">Mass and Weight</a></li>
-			<li><a href="speed.php">Speed</a></li>
-			<li><a href="temperature.php">Temperature</a></li>
+			<li><a href="length_converter.php">Length and Distance</a></li>
+			<li><a href="area_converter.php">Area</a></li>
+			<li><a href="temperature_converter.php">Temperature</a></li>
 		</ul>
 	</div>
 </body>
