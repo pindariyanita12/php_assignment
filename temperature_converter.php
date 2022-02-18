@@ -10,9 +10,7 @@
 <body>
     
 
-	<div class="converter-body" style="width: 500px;
-	margin-left: auto;
-    margin-right: auto;">
+	<div class="converter-body" style="width: 500px; margin-left: auto; margin-right: auto;">
 		
 		<h1 class="converter-title">Temperature Converter</h1>
 		<form action="">

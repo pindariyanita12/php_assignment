@@ -10,9 +10,7 @@
 <body>
     
 
-	<div class="converter-body" style="width: 500px;
-	margin-left: auto;
-    margin-right: auto;">
+	<div class="converter-body" style="width: 500px; margin-left: auto; margin-right: auto;">
 		
 		<h1 class="converter-title">Area Converter</h1>
 		<form action="">
@@ -40,14 +38,14 @@
 		<br>
 		<a href="index.php">Return to menu</a>
 
-</form>
+		</form>
 
 	</div>
 
 
 
 <script>
-    var input = document.getElementById('input');
+var input = document.getElementById('input');
 var result = document.getElementById('result');
 var inputType = document.getElementById('inputType');
 var resultType = document.getElementById('resultType');
@@ -170,7 +168,6 @@ function myResult(){
 		
 		result.value = input.value;
 	}
-
 }
 
 </script>
